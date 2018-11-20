@@ -23,7 +23,7 @@
 
 ### Avanzado
 * http://web.stanford.edu/class/cs20si/
-* https://web.stanford.edu/~hastie/Papers/ESLII.pdf (ver libro)
+* https://web.stanford.edu/~hastie/Papers/ESLII.pdf
 * https://www.deeplearningbook.org/
 * https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf
 * [ https://www.digitalhouse.com/curso/inteligencia-artificial/ ]
