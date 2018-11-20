@@ -1,8 +1,7 @@
-﻿### Introductorio
+### Introductorio
 * https://www.khanacademy.org/
 * https://codecademy.com/
 * https://www.udacity.com/
-* 
 * https://github.com/jakevdp/WhirlwindTourOfPython
 * https://github.com/juanklopper/Statistics-Notes
 * https://www.coursera.org/courses?query=machine+learning+andrew+ng
