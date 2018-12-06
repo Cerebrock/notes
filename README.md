@@ -7,26 +7,38 @@
 * https://www.coursera.org/courses?query=machine+learning+andrew+ng
 * https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
 * https://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf
-* http://web.stanford.edu/class/cs109/
+* https://github.com/rouseguy/intro2stats
 
 
 ### Intermedio
 * https://github.com/jakevdp/PythonDataScienceHandbook 
 * https://github.com/jdwittenauer/ipython-notebooks
 * https://github.com/WillKoehrsen/Hands-On-Machine-Learning/tree/master/handson-ml-master
-* https://github.com/brinkar/real-world-machine-learning
-* https://github.com/rasbt/python-machine-learning-book-2nd-edition
 * https://github.com/fchollet/deep-learning-with-python-notebooks
+* https://github.com/brinkar/real-world-machine-learning
+
+## Intermedio ++
+* http://web.stanford.edu/class/cs109/
 * http://cs229.stanford.edu/
+* https://cs231n.github.io/
+* http://web.stanford.edu/class/cs20si/
+* http://cs224d.stanford.edu/syllabus.html
+* http://people.duke.edu/~ccc14/sta-663-2016/index.html
+* http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html
 * http://www.fast.ai/
 * [ https://www.digitalhouse.com/curso/data-science/ ]
 
 ### Avanzado
-* http://web.stanford.edu/class/cs20si/
-* https://web.stanford.edu/~hastie/Papers/ESLII.pdf
 * https://www.deeplearningbook.org/
-* https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf
+* https://web.stanford.edu/~hastie/Papers/ESLII.pdf
 * [ https://www.digitalhouse.com/curso/inteligencia-artificial/ ]
+
+### RL
+* http://rail.eecs.berkeley.edu/deeprlcourse/
+* http://web.stanford.edu/class/cs234/index.html
+* https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf
+* http://videolectures.net/DLRLsummerschool2018_toronto/
+* https://github.com/dennybritz/reinforcement-learning
 
 ### Colecciones:
 * https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md
@@ -63,3 +75,27 @@
 - Evolutionary Alg. 
 - Cellular Automata
 - Neural Turing Machines
+
+CS50 on edX
+HackerRank's 30 days of code challenge
+Data Structures and Algorithms in Python by Michael T. Goodrich (book)
+Cracking the Coding Interview by Gayle Laakmann McDowell (book)
+
+Machine Learning & Deep Learning:
+
+Andrew Ng's original ML Coursera class + his more recent series of deep learning courses
+Michael Nielson's deep learning textbook
+Chris Olah's blog 
+Ian Goodfellow's Deep Learning textbook 
+
+Universal Language Model Fine-tuning for Text Classification
+Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples
+Deep Contextualized Word Representations
+An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling
+Delayed Impact of Fair Machine Learning
+World Models
+Taskonomy: Disentangling Task Transfer Learning
+Know What You Don’t Know: Unanswerable Questions for SQuAD
+Large Scale GAN Training for High Fidelity Natural Image Synthesis
+BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+https://github.com/dennybritz/deeplearning-papernotes
