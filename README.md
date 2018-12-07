@@ -31,6 +31,7 @@
 ### Avanzado
 * https://www.deeplearningbook.org/
 * https://web.stanford.edu/~hastie/Papers/ESLII.pdf
+* https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf
 * [ https://www.digitalhouse.com/curso/inteligencia-artificial/ ]
 
 ### RL
