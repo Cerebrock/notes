@@ -76,20 +76,19 @@
 - Evolutionary Alg. 
 - Cellular Automata
 - Neural Turing Machines
-
-https://github.com/dennybritz/deeplearning-papernotes
-CS50 on edX
-HackerRank's 30 days of code challenge
-Data Structures and Algorithms in Python by Michael T. Goodrich (book)
-Cracking the Coding Interview by Gayle Laakmann McDowell (book)
-Michael Nielson's deep learning textbook
-Chris Olah's blog 
-Universal Language Model Fine-tuning for Text Classification
-Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples
-Deep Contextualized Word Representations
-An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling
-Delayed Impact of Fair Machine Learning
-Taskonomy: Disentangling Task Transfer Learning
-Know What You Don’t Know: Unanswerable Questions for SQuAD
-Large Scale GAN Training for High Fidelity Natural Image Synthesis
-BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+- https://github.com/dennybritz/deeplearning-papernotes
+- CS50 on edX
+- HackerRank's 30 days of code challenge
+- Data Structures and Algorithms in Python by Michael T. Goodrich (book)
+- Cracking the Coding Interview by Gayle Laakmann McDowell (book)
+- Michael Nielson's deep learning textbook
+- Chris Olah's blog 
+- Universal Language Model Fine-tuning for Text Classification
+- Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples
+- Deep Contextualized Word Representations
+- An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling
+- Delayed Impact of Fair Machine Learning
+- Taskonomy: Disentangling Task Transfer Learning
+- Know What You Don’t Know: Unanswerable Questions for SQuAD
+- Large Scale GAN Training for High Fidelity Natural Image Synthesis
+- BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
