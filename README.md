@@ -17,7 +17,7 @@
 * https://github.com/fchollet/deep-learning-with-python-notebooks
 * https://github.com/brinkar/real-world-machine-learning
 
-## Intermedio ++
+### Intermedio ++
 * http://web.stanford.edu/class/cs109/
 * http://cs229.stanford.edu/
 * https://cs231n.github.io/
@@ -49,7 +49,7 @@
 * https://github.com/ChristosChristofidis/awesome-deep-learning
 * https://github.com/brylevkirill/notes
 
-### Notas personales:
+### /tmp/:
 - https://christophm.github.io/interpretable-ml-book/
 - http://web.math.ku.dk/~peters/elements.html
 - https://www.dropbox.com/s/o4345krw428kyld/11283.pdf
@@ -69,7 +69,7 @@
 - Energy based models
 - Markov Blanket, Friston
 - Differential Plasticity
-- Dilated convolutions…
+- Dilated convolutions...
 - Capsule networks
 - AdaNet
 - Otros:
@@ -77,26 +77,19 @@
 - Cellular Automata
 - Neural Turing Machines
 
+https://github.com/dennybritz/deeplearning-papernotes
 CS50 on edX
 HackerRank's 30 days of code challenge
 Data Structures and Algorithms in Python by Michael T. Goodrich (book)
 Cracking the Coding Interview by Gayle Laakmann McDowell (book)
-
-Machine Learning & Deep Learning:
-
-Andrew Ng's original ML Coursera class + his more recent series of deep learning courses
 Michael Nielson's deep learning textbook
 Chris Olah's blog 
-Ian Goodfellow's Deep Learning textbook 
-
 Universal Language Model Fine-tuning for Text Classification
 Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples
 Deep Contextualized Word Representations
 An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling
 Delayed Impact of Fair Machine Learning
-World Models
 Taskonomy: Disentangling Task Transfer Learning
 Know What You Don’t Know: Unanswerable Questions for SQuAD
 Large Scale GAN Training for High Fidelity Natural Image Synthesis
 BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
-https://github.com/dennybritz/deeplearning-papernotes
