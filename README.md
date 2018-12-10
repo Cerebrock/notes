@@ -50,6 +50,7 @@
 * https://github.com/brylevkirill/notes
 
 ### /tmp/:
+- https://cs.stanford.edu/~ermon/cs228/index.html
 - https://christophm.github.io/interpretable-ml-book/
 - http://web.math.ku.dk/~peters/elements.html
 - https://www.dropbox.com/s/o4345krw428kyld/11283.pdf
