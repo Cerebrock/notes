@@ -32,6 +32,7 @@
 * https://www.deeplearningbook.org/
 * https://web.stanford.edu/~hastie/Papers/ESLII.pdf
 * https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf
+* https://github.com/jack2684/cs76-ai/blob/master/Artificial Intelligence A Modern Approach 3rd Edition.pdf
 * [ https://www.digitalhouse.com/curso/inteligencia-artificial/ ]
 
 ### RL
