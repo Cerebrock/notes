@@ -51,7 +51,8 @@
 * https://github.com/ChristosChristofidis/awesome-deep-learning
 * https://github.com/brylevkirill/notes
 
-### /tmp/:
+### Otros/Misc:
+- https://redwood.berkeley.edu/courses/vs265/
 - https://cs.stanford.edu/~ermon/cs228/index.html
 - https://christophm.github.io/interpretable-ml-book/
 - http://web.math.ku.dk/~peters/elements.html
