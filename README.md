@@ -42,8 +42,11 @@
 * https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf
 * http://videolectures.net/DLRLsummerschool2018_toronto/
 * https://github.com/dennybritz/reinforcement-learning
+* https://spinningup.openai.com/en/latest/
 
 ### Colecciones:
+* https://paperswithcode.com/
+* https://mml-book.github.io/
 * https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md
 * https://montrealartificialintelligence.com/academy/ 
 * https://metacademy.org/graphs/concepts/deep_belief_networks#focus=random_variables&mode=explore
