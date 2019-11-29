@@ -71,16 +71,17 @@
 - Chaos and fractals http://carlosreynoso.com.ar/archivos/peitgen.pdf
 - Attention https://arxiv.org/abs/1706.03762
 - World Models https://worldmodels.github.io
+
+## Other notes
 - Continuous attractor networks 
 - Hierarchical Temporal Memory
 - Energy based models
 - Markov Blanket, Friston
 - Differential Plasticity
-- Dilated convolutions...
+- Dilated convolutions
 - Capsule networks
 - AdaNet
-- Otros:
-- Evolutionary Alg. 
+- Evolutionary Alg
 - Cellular Automata
 - Neural Turing Machines
 - https://github.com/dennybritz/deeplearning-papernotes
