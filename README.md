@@ -27,14 +27,14 @@
 * http://people.duke.edu/~ccc14/sta-663-2016/index.html
 * http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html
 * http://www.fast.ai/
-* [ https://www.digitalhouse.com/curso/data-science/ ]
 
 ### Avanzado
 * https://www.deeplearningbook.org/
 * https://web.stanford.edu/~hastie/Papers/ESLII.pdf
 * https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf
 * https://github.com/jack2684/cs76-ai/blob/master/Artificial Intelligence A Modern Approach 3rd Edition.pdf
-* [ https://www.digitalhouse.com/curso/inteligencia-artificial/ ]
+* https://www.inference.org.uk/itprnn/book.pdf
+* http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/090310.pdf
 
 ### RL
 * http://rail.eecs.berkeley.edu/deeprlcourse/
