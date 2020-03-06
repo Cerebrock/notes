@@ -38,7 +38,7 @@
 * https://github.com/jack2684/cs76-ai/blob/master/Artificial Intelligence A Modern Approach 3rd Edition.pdf
 * https://www.inference.org.uk/itprnn/book.pdf
 * http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/090310.pdf
-* tensorflow/probability: Probabilistic reasoning and statistical analysis in TensorFlow
+* https://mml-book.github.io/
 
 ### RL
 * http://rail.eecs.berkeley.edu/deeprlcourse/
@@ -50,12 +50,12 @@
 
 ### Colecciones:
 * https://paperswithcode.com/
-* https://mml-book.github.io/
 * https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md
 * https://montrealartificialintelligence.com/academy/ 
 * https://metacademy.org/graphs/concepts/deep_belief_networks#focus=random_variables&mode=explore
 * https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
 * https://github.com/ChristosChristofidis/awesome-deep-learning
+* https://sgfin.github.io/learning-resources/
 * https://github.com/brylevkirill/notes
 
 ### Otros/Misc:
@@ -87,6 +87,7 @@
 
 ## Otras notas
 - https://github.com/whoafridi/Machine-Learning-Books/blob/master/book/Thoughtful%20Machine%20Learning%20with%20Python%20A%20Test-Driven%20Approach.pdf
+- tensorflow/probability: Probabilistic reasoning and statistical analysis in TensorFlow
 - Continuous attractor networks 
 - Hierarchical Temporal Memory
 - Energy based models
