@@ -86,6 +86,7 @@
 - https://github.com/rasbt/python-machine-learning-book/tree/master/code
 
 ## Otras notas
+- https://github.com/whoafridi/Machine-Learning-Books/blob/master/book/Thoughtful%20Machine%20Learning%20with%20Python%20A%20Test-Driven%20Approach.pdf
 - Continuous attractor networks 
 - Hierarchical Temporal Memory
 - Energy based models
