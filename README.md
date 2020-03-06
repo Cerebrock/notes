@@ -86,6 +86,7 @@
 - https://github.com/rasbt/python-machine-learning-book/tree/master/code
 
 ## Otras notas
+- http://colah.github.io/
 - https://github.com/whoafridi/Machine-Learning-Books/blob/master/book/Thoughtful%20Machine%20Learning%20with%20Python%20A%20Test-Driven%20Approach.pdf
 - tensorflow/probability: Probabilistic reasoning and statistical analysis in TensorFlow
 - Continuous attractor networks 
@@ -105,7 +106,6 @@
 - Data Structures and Algorithms in Python by Michael T. Goodrich (book)
 - Cracking the Coding Interview by Gayle Laakmann McDowell (book)
 - Michael Nielson's deep learning textbook
-- Chris Olah's blog 
 - Universal Language Model Fine-tuning for Text Classification
 - Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples
 - Deep Contextualized Word Representations
