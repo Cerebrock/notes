@@ -1,22 +1,24 @@
-### Introductorio
+### Intro
+
 * https://seeing-theory.brown.edu/
 * https://www.khanacademy.org/
 * https://codecademy.com/
 * https://www.udacity.com/
-* https://github.com/jakevdp/WhirlwindTourOfPython
 * https://github.com/juanklopper/Statistics-Notes
-* https://www.coursera.org/courses?query=machine+learning+andrew+ng
 * https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
 * https://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf
+* https://github.com/jakevdp/WhirlwindTourOfPython
 * https://github.com/rouseguy/intro2stats
 
-
 ### Intermedio
+* https://github.com/DataScienceUB/DeepLearningMaster20192020
+* https://github.com/wesm/pydata-book
 * https://github.com/jakevdp/PythonDataScienceHandbook 
 * https://github.com/jdwittenauer/ipython-notebooks
 * https://github.com/WillKoehrsen/Hands-On-Machine-Learning/tree/master/handson-ml-master
 * https://github.com/fchollet/deep-learning-with-python-notebooks
 * https://github.com/brinkar/real-world-machine-learning
+* https://www.coursera.org/courses?query=machine+learning+andrew+ng
 
 ### Intermedio ++
 * http://web.stanford.edu/class/cs109/
@@ -27,6 +29,7 @@
 * http://people.duke.edu/~ccc14/sta-663-2016/index.html
 * http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html
 * http://www.fast.ai/
+* https://github.com/quantopian/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
 
 ### Avanzado
 * https://www.deeplearningbook.org/
@@ -35,6 +38,7 @@
 * https://github.com/jack2684/cs76-ai/blob/master/Artificial Intelligence A Modern Approach 3rd Edition.pdf
 * https://www.inference.org.uk/itprnn/book.pdf
 * http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/090310.pdf
+* tensorflow/probability: Probabilistic reasoning and statistical analysis in TensorFlow
 
 ### RL
 * http://rail.eecs.berkeley.edu/deeprlcourse/
@@ -72,7 +76,16 @@
 - Attention https://arxiv.org/abs/1706.03762
 - World Models https://worldmodels.github.io
 
-## Other notes
+
+## Econ
+
+- https://python.quantecon.org/index_toc.html
+- https://github.com/jlcatonjr/Learn-Python-for-Stats-and-Econ/blob/master/Learn%20Python%20for%20Economic%20Computation%20-%20A%20Crash%20Course.pdf
+- https://github.com/rsvp/fecon235
+- https://github.com/jmbejara/comp-econ-sp18
+- https://github.com/rasbt/python-machine-learning-book/tree/master/code
+
+## Otras notas
 - Continuous attractor networks 
 - Hierarchical Temporal Memory
 - Energy based models
