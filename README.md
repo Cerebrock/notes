@@ -1,4 +1,5 @@
 ### Intro
+* https://runestone.academy/runestone/books/published/thinkcspy/index.html
 * https://seeing-theory.brown.edu/
 * https://www.khanacademy.org/
 * https://codecademy.com/
@@ -9,6 +10,8 @@
 * https://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf
 * https://github.com/jakevdp/WhirlwindTourOfPython
 * https://github.com/rouseguy/intro2stats
+* https://automatetheboringstuff.com/
+
 
 ### Intermedio
 * https://github.com/DataScienceUB/DeepLearningMaster20192020
@@ -49,6 +52,7 @@
 * https://spinningup.openai.com/en/latest/
 
 ### Colecciones:
+* https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/
 * https://paperswithcode.com/
 * https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md
 * https://montrealartificialintelligence.com/academy/ 
@@ -115,3 +119,7 @@
 - Know What You Don’t Know: Unanswerable Questions for SQuAD
 - Large Scale GAN Training for High Fidelity Natural Image Synthesis
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+- https://www.cybrary.it/course/python/
+
+
+
