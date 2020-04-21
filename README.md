@@ -5,6 +5,8 @@
 * https://codecademy.com/
 * https://www.codewars.com/
 * https://www.udacity.com/
+* https://cs50.harvard.edu/
+* https://leetcode.com/
 * https://github.com/juanklopper/Statistics-Notes
 * https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
 * https://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf
@@ -19,6 +21,7 @@
 * https://github.com/jakevdp/PythonDataScienceHandbook 
 * https://github.com/jdwittenauer/ipython-notebooks
 * https://github.com/WillKoehrsen/Hands-On-Machine-Learning/tree/master/handson-ml-master
+* https://github.com/ageron/handson-ml2
 * https://github.com/fchollet/deep-learning-with-python-notebooks
 * https://github.com/brinkar/real-world-machine-learning
 * https://www.coursera.org/courses?query=machine+learning+andrew+ng
