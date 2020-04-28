@@ -1,4 +1,5 @@
 ### Intro
+* https://swcarpentry.github.io/python-novice-inflammation/
 * https://runestone.academy/runestone/books/published/thinkcspy/index.html
 * https://seeing-theory.brown.edu/
 * https://www.khanacademy.org/
@@ -57,6 +58,7 @@
 ### Colecciones:
 * https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/
 * https://paperswithcode.com/
+* https://sgfin.github.io/learning-resources
 * https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md
 * https://montrealartificialintelligence.com/academy/ 
 * https://metacademy.org/graphs/concepts/deep_belief_networks#focus=random_variables&mode=explore
