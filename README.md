@@ -46,6 +46,7 @@
 * https://www.inference.org.uk/itprnn/book.pdf
 * http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/090310.pdf
 * https://mml-book.github.io/
+* https://github.com/andkret/Cookbook
 
 ### RL
 * http://rail.eecs.berkeley.edu/deeprlcourse/
