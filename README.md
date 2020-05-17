@@ -165,7 +165,7 @@
 * https://github.com/kailashahirwar/cheatsheets-ai
 * https://web.stanford.edu/class/cs259d
 * https://github.com/graykode/nlp-tutorial
-
+* https://github.com/mrm8488/shared_colab_notebooks
 
 ## Academic Machine Learning:
 
