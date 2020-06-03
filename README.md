@@ -1,4 +1,5 @@
 ### Intro
+* https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/
 * https://swcarpentry.github.io/python-novice-inflammation/
 * https://runestone.academy/runestone/books/published/thinkcspy/index.html
 * https://seeing-theory.brown.edu/
