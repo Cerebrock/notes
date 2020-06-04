@@ -91,7 +91,11 @@
 * https://github.com/jstac/econometrics
 
 
-### Otros/Misc:
+## NLP
+* https://notebooks.quantumstat.com/
+* https://github.com/joosthub/PyTorchNLPBook
+* https://github.com/mohammedterry/NLP_for_ML
+### Mas:
 * https://github.com/eselkin/awesome-computational-neuroscience
 * https://redwood.berkeley.edu/courses/vs265/
 * https://cs230.stanford.edu/
@@ -105,7 +109,6 @@
 * https://github.com/bt3gl/Book_on_Python_Algorithms_and_Data_Structure/
 * https://github.com/gopala-kr/trending-repos
 * https://github.com/rasbt/python-machine-learning-book1
-* https://github.com/joosthub/PyTorchNLPBook
 * https://github.com/eriklindernoren/ML-From-Scratch
 * https://github.com/CompPhysics/ComputationalPhysics
 * https://github.com/ml4a/ml4a-guides
@@ -117,7 +120,6 @@
 * https://www.dropbox.com/s/o4345krw428kyld/11283.pdf
 * https://github.com/tugstugi/dl-colab-notebooks
 * https://github.com/zaidalyafeai/Notebooks
-* https://github.com/mohammedterry/NLP_for_ML
 * https://github.com/tensorflow/workshops
 * http://www.inference.org.uk/itprnn/book.pdf
 * https://www.biorxiv.org/content/biorxiv/early/2018/04/06/295964.full.pdf
