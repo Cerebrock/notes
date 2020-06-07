@@ -51,7 +51,7 @@
 * https://www.inference.org.uk/itprnn/book.pdf
 * http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/090310.pdf
 * https://mml-book.github.io/
-* https://github.com/andkret/Cookbook
+* https://cbmm.mit.edu/lh-9-520/syllabus
 
 ### RL
 * http://rail.eecs.berkeley.edu/deeprlcourse/
@@ -96,6 +96,7 @@
 * https://github.com/joosthub/PyTorchNLPBook
 * https://github.com/mohammedterry/NLP_for_ML
 ### Mas:
+* https://github.com/andkret/Cookbook
 * https://github.com/eselkin/awesome-computational-neuroscience
 * https://redwood.berkeley.edu/courses/vs265/
 * https://cs230.stanford.edu/
